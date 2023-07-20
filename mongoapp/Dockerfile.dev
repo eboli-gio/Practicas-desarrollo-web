@@ -1,0 +1,16 @@
+FROM node:18
+
+RUN npm i -g nodemon
+RUN mkdir -p /home/app
+
+
+
+WORKDIR /home/gebolic1500/mongoapp
+
+COPY package.json .
+COPY package-lock.json . 
+
+
+EXPOSE 3000
+
+CMD ["nodemon", "index.js"]
