@@ -1,0 +1,3 @@
+usuario:gebolic1500
+conrtraseña: 1BwoQDM9ty99OiNC
+URL: mongodb+srv://gebolic1500:<password>@cluster0.riqzzjx.mongodb.net/?retryWrites=true&w=majority
