@@ -1,0 +1,36 @@
+body{
+    background-color: #e3dede;
+}
+.caja{
+    background-color: #fff;
+    border: 2px;
+    border-style:solid;
+    border-width: 1px;
+    border-color: #ccc;
+    border-radius:2px;
+    border-top: solid 0px;
+}
+.cabezera{
+    padding: 10px;
+    border-bottom: solid 1px #eee;
+}
+.contenido{
+    padding: 10px;
+}
+.footer{
+    padding: 10px;
+    border-top: solid 1px #eee;
+}
+.acepta{
+    background-color: #0090ff;
+    padding: 5px;
+    border:0px;
+    color:white;
+
+}
+.cancelar{
+    background-color: #aaa;
+    padding: 5px;
+    border:0px;
+    color:white;
+}
